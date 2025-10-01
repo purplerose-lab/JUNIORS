@@ -1,5 +1,5 @@
 # JUNIORS
-<Personal Project>
+It's Personal School Project
 <!DOCTYPE html>
 <html lang="en">
 <head>
