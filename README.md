@@ -1,2 +1,13 @@
 # JUNIORS
 Personal Project
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>개인 홈페이지</title>
+</head>
+<body>
+    테스트
+</body>
+</html>
